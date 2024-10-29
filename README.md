@@ -1,6 +1,10 @@
 <p align="center"><img src="logo.svg"></p>
 
 <p align="center">
+  <img loading="lazy" width="700" src="walls/gate.png">
+  <img loading="lazy" width="700" src="walls/leaves.webp">
+  <img loading="lazy" width="700" src="walls/peach.jpg">
+  <img loading="lazy" width="700" src="walls/memory.jpg">
   <img loading="lazy" width="700" src="walls/river.jpeg">
   <img loading="lazy" width="700" src="walls/library.png">
   <img loading="lazy" width="700" src="walls/apollo.jpg">
